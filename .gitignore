@@ -1,0 +1,25 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+*.db
+
+# Virtual environment
+venv/
+env/
+
+# Streamlit-specific
+*.config
+
+# .env file for storing sensitive data like API keys
+.env
+
+# Output folder where screenshots or generated files may be stored
+output/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
